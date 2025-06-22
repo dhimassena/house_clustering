@@ -1,3 +1,3 @@
 # house_clustering
 
-Implementation of K-Means algorithm to cluster house based on several features
+Implementation of K-Means algorithm to cluster California housing from scikitlearn dataset
